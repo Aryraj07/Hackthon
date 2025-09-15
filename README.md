@@ -25,7 +25,7 @@ A digital platform enabling hyperlocal discovery of skills, direct communication
 - **Messaging** – Real-time messaging with Supabase Realtime subscriptions.  
 - **Reviews & Ratings** – Shishyas can leave reviews and ratings for Gurus.  
 
-> ⚠️ Note: This project **excludes all additional features** like Govt Portal Integration, Vernacular Support, Mini-Payments, and Group Workshops.
+> ⚠️ Note: This project **not include addtional feature**  Govt Portal Integration.
 
 ---
 
